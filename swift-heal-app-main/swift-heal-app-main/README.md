@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to Health_care_app
 
 ## Project info
 
